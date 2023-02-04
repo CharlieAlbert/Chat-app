@@ -1,0 +1,15 @@
+
+.Hero > h1 {
+  font-weight: 700;
+  font-size: 84px;
+  line-height: 126px;
+}
+
+.furniture {
+  color: #eb5e28;
+}
+
+.explore {
+  border: 1px solid;
+  border-radius: 10px;
+}
