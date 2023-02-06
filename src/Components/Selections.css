@@ -1,0 +1,18 @@
+.large {
+    width: 400px;
+    height: 250px;
+}
+
+.small {
+    width: 300px;
+    height: 200px;
+}
+
+.small, .large {
+    position: block;
+    border: none;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+

@@ -6,7 +6,7 @@ import BonusBadge from "../Assets/BonusBadge.png";
 function HeroSection() {
   return (
     <div className="hero-section">
-        <div className="Hero mb-5">
+        <div className="Hero mb-5 container">
             <h1>Create Your Haven With</h1>
             <h1>Our <span className="furniture">Furniture</span> Pieces</h1>
         </div>

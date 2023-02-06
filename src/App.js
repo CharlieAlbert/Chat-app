@@ -2,6 +2,7 @@ import "./App.css";
 import "./global.css";
 import { HashRouter as Router, Route, Switch } from "react-router-dom";
 import HeroSection from "./Components/HeroSection";
+import Selections from "./Components/Selections";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
         <Switch>
           <Route exact path="/">
             <HeroSection />
+            <Selections />
           </Route>
         </Switch>
       </Router>
