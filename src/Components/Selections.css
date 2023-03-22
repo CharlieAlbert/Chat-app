@@ -1,18 +1,42 @@
 .large {
-    width: 400px;
-    height: 250px;
+  width: 400px;
+  height: 250px;
 }
 
 .small {
-    width: 300px;
-    height: 200px;
+  width: 300px;
+  height: 200px;
 }
 
-.small, .large {
-    position: block;
-    border: none;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+.small,
+.large {
+  position: block;
+  border: none;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
+.selection-1a {
+  background-image: url("../Assets/BedRoom.png");
+}
+
+.selection-1b {
+  background-image: url("../Assets/Dining-overlook.png");
+}
+
+.selection-2a {
+  background-image: url("../Assets/Dining-overlookLarge.png");
+}
+
+.selection-2b {
+  background-image: url("../Assets/Kitchen-seats.png");
+}
+
+.selection-3a {
+  background-image: url("../Assets/Studyenv-1.png");
+}
+
+.selection-3b {
+  background-image: url("../Assets/Studyenv-large.png");
+}

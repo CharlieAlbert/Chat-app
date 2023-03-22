@@ -1,0 +1,22 @@
+.products {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+.product {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: start;
+    width: 250px;
+    margin: 30px;
+    padding: 20px;
+    border: 1px solid #EB5E28;
+    border-radius: 5px;
+}
+
+.desc {
+    padding: 20px 0;
+    color: #EB5E28;
+}
